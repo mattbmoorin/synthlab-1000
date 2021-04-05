@@ -3,6 +3,6 @@
 
 <p>The creator has instructed me to generate sounds of varying timbre and complexity. I contain a sonic universe for you to explore...</p>
 
-////////////////////////////////
+______
 
 ###### A synthesizer project using React, Redux and Rails.
