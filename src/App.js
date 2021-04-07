@@ -1,10 +1,11 @@
 import Controller from './components/Controller';
+import Header from './components/Header';
 
 function App() {
   return (
     <div className="App">
-      <h1>S Y N T H L A B 1 0 0 0</h1>
-      <Controller />
+      <Header />
+      <Controller test="Testing!" />
     </div>
   );
 }
